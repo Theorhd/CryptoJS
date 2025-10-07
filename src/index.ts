@@ -1,4 +1,4 @@
-export { CryptoJs } from './CryptoJs';
-export { KeyGenerator } from './KeyGenerator';
-export { Encryptor } from './Encryptor';
-export { Decryptor } from './Decryptor';
+export { CryptoJs } from './CryptoJs.js';
+export { KeyGenerator } from './KeyGenerator.js';
+export { Encryptor } from './Encryptor.js';
+export { Decryptor } from './Decryptor.js';
