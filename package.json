@@ -1,5 +1,5 @@
 {
-  "name": "cryptojs",
+  "name": "cryptojs-secure",
   "version": "0.1.0",
   "description": "Package de cryptographie asymétrique pour chiffrer/déchiffrer des messages et documents avec des clés publiques/privées",
   "main": "dist/index.js",
