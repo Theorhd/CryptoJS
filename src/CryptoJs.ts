@@ -1,6 +1,6 @@
-import { KeyGenerator } from './KeyGenerator';
-import { Encryptor } from './Encryptor';
-import { Decryptor } from './Decryptor';
+import { KeyGenerator } from './KeyGenerator.js';
+import { Encryptor } from './Encryptor.js';
+import { Decryptor } from './Decryptor.js';
 
 export class CryptoJs {
   publicKey: string | null = null;
